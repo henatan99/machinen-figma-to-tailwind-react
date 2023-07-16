@@ -10,7 +10,12 @@ module.exports = {
             'custom-bg-red': "rgba(220, 38, 38, 1)",
             'custom-divider-bg': "rgba(255, 255, 255, 0.1)",
             'bg-main': "rgba(42, 44, 56, 1)",
-            'custom-font-white': "rgba(255, 255, 255, 1)"
+            'custom-font-white': "rgba(255, 255, 255, 1)",
+            'custom-font-light': 'rgba(255, 255, 255, 0.6)',
+            'custom-bg-black': 'rgba(29, 32, 37, 1)'
+        },
+        rotate: {
+            '-30': '-30deg',
         },
     },
     plugins: [],
