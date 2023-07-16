@@ -1,0 +1,46 @@
+.font-56 {
+    font-family: 'Aeonik', 'Arial', 'sans-seif';
+    font-weight: 700;
+    line-height: 67.2px;
+    font-size: calc(40px + (56 - 40) * (100vw - 375px) / (1440 - 375));
+    line-height: calc(48px + (67.2 - 48) * (100vw - 375px) / (1440 - 375));
+}
+
+.font-16 {
+    font-family: 'Aeonik', 'Arial', 'sans-seif';
+    font-weight: 700;
+    font-size: calc(14px + (16 - 14) * (100vw - 375px) / (1440 - 375));
+    line-height: calc(16.8px + (19.2 - 16.8) * (100vw - 375px) / (1440 - 375));
+}
+
+.font-14 {
+    font-family: Vinila, 'Arial', 'sans-seif';
+    font-size: calc(12px + (14 - 12) * (100vw - 375px) / (1440 - 375));
+    font-weight: 700;
+    line-height: calc(16.8px + (20 - 16.8) * (100vw - 375px) / (1440 - 375));
+}
+
+.font-14-light {
+    font-family: Aeonik, 'Arial', 'sans-seif';
+    font-size: calc(12px + (14 - 12) * (100vw - 375px) / (1440 - 375));
+    font-weight: 500;
+    line-height: calc(17px + (17 - 14.4) * (100vw - 375px) / (1440 - 375));
+    letter-spacing: 0.03em;
+}
+
+.font-20 {
+    font-family: Aeonik, 'Arial', 'sans-seif';
+    font-size: calc(16px + (20 - 16) * (100vw - 375px) / (1440 - 375));
+    font-weight: 700;
+    line-height: calc(24px + (24 - 19.2) * (100vw - 375px) / (1440 - 375));
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.font-40 {
+    font-family: Aeonik, 'Arial', 'sans-seif';
+    font-size: calc(28px + (40 - 28) * (100vw - 375px) / (1440 - 375));
+    font-weight: 700;
+    line-height: calc(33.6px + (48 - 33.6) * (100vw - 375px) / (1440 - 375));
+    letter-spacing: 0em;
+}
